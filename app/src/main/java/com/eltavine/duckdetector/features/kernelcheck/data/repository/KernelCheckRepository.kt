@@ -825,6 +825,7 @@ class KernelCheckRepository(
             "mirinfork",
             "brokestar",
             "sukisu",
+            "Glow-v4.7"
         )
 
         private val CASE_SENSITIVE_KEYWORDS = listOf("OKI")
