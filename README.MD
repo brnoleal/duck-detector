@@ -93,8 +93,9 @@ gradlew.bat :app:assembleDebug
  * **Heuristic Detection**: All security detections are based on heuristic algorithms. No single signal should be relied upon in isolation as absolute proof of trustworthiness.
  * **Hardware & Vendor Restrictions**: Due to OEM policies or sandbox rules, some probes may report downgraded statuses on specific models. Certain low-level checks rely strictly on the arm64-v8a ABI architecture.
 ## 📈 Status & Stars
-This repository is under **active evolution and iteration**. New detection modules and heuristic mechanisms are constantly being added, and detection thresholds are continually fine-tuned to minimize false positives on stock factory systems.
-*Star History Chart*
+
+[![Star History Chart][star-history-chart]][star-history]
+
 ## ⚖️ Disclaimer
 ```text
 This software is provided "as is", without warranty of any kind. It is designed
